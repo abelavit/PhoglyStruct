@@ -9,6 +9,8 @@ In both the categories, one has the option to either train multilayer preceptron
 1. Commercial software (Matlab)
 
 Option 1: Same train and test sets as PhoglyStruct classifier
+
+The train and test datasets used for implementing PhoglyStruct are .mat files by the names 'train' and 'test' respectively. The datasets were converted to arff files to train multilayer perceptron on WEKA. These datasets were also generated for the CKSAAP_PhoglySite method containing CKSAAP features and its arff files were used to train multilayer perceptron on WEKA for comparison. The performance of test set was also obtained for Phogly_PseAAC method by comparing the lysine k predictions when FASTA format of the protein sequence was uploaded to the webserver.     
  
 Option 2: Different train and test sets as PhoglyStruct classifier
 
