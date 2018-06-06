@@ -31,4 +31,4 @@ To find in detail the CKSAAP_PhoglySite feature extraction method for each lysin
 
 To verify the algorithm for calculating the CKSAAP features, code named 'CKSAAP_Preprocessing_Xu_Dataset' was developed to run on Xu's Dataset and the feature rank achieved by this alogorithm was compared to the rank achieved in CKSAAP_PhoglySite method. The rank achieved by CKSAAP_PhoglySite method is highlighted in table 3 of their paper.  
 
-The file also contains FASTA format of the phosphoglycerylation dataset which was used to obtained the predictions of all lysine k from the Phogly–PseAAC webserver accessible at http://app.aporc.org/Phogly-PseAAC/
+The file also contains FASTA format of the phosphoglycerylation dataset which was used to obtained the predictions of all lysine k from the Phogly–PseAAC webserver accessible at http://app.aporc.org/Phogly-PseAAC/ and iPGK-PseAAC webserver accessible at http://app.aporc.org/iPGK-PseAAC/
